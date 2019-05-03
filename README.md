@@ -2,7 +2,7 @@
 
 Button by JavaFX2.
 
-Convert input string to upper case.　　
+Convert input string to upper case.  
 Process in the following three ways.
 
 * Event Handler ... Execute processing by pressing a button.
