@@ -9,4 +9,4 @@ Process in the following three ways.
 * Bind(High-level API) ... It can not be realized by this method.
 * Bind(Low-level API) ... Process in real time.
 
-![javaFX2button](https://github.com/63rabbits/javaFX2button/blob/master/javaFX2button.png?raw=true)
+![javaFX2button](/javaFX2button.png)
